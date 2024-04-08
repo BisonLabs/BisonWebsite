@@ -1,6 +1,9 @@
 const CracoLessPlugin = require("craco-less");
 
 module.exports = {
+devServer: {
+  port: 3001 // 指定开发服务器的端口
+},
   plugins: [
     {
       plugin: CracoLessPlugin,
