@@ -182,32 +182,18 @@ export default function Home(props) {
                       className={`self-stretch ${styles['image_12']} ${styles['image_13']}`}
                       src="images/7da02ad26cdd562e565072cb27e45645.png"
                     />
-                    <span className={`self-start ${styles['font_10']} ${styles['text_25']}`}>Secured by Bitcoin</span>
+                    <span className={`self-start ${styles['font_10']} ${styles['text_25']}`}>Bison Labs: Major Milestones and Looking Ahead</span>
                     <span className={`self-stretch ${styles['font_7']} ${styles['text_26']}`}>
-                      Bison Labs elevates Bitcoin's utility beyond just a cryptocurrency by enabling developers to build
-                      diverse applications directly on Bitcoin's blockchain.
+                      At Bison Labs, we have been working hard and are thrilled to share a series of significant milestones that mark our growth and our commitment to revolutionizing the Bitcoin ecosystem. 
                     </span>
-                    <img
-                      className={`self-stretch ${styles['image_12']} ${styles['image_14']}`}
-                      src="images/7da02ad26cdd562e565072cb27e45645.png"
-                    />
                   </div>
                 </div>
                 <div className={`flex-row justify-between items-center ${styles['group_10']}`}>
-                  <span className={`${styles['font_10']}`}>Secured by Bitcoin</span>
-                  <span className={`${styles['font_10']} ${styles['text_27']}`}>Secured by Bitcoin</span>
+                  <span className={`${styles['font_10']}`}>Bison Labs Closed Seed funding</span>
                 </div>
                 <div className={`flex-row ${styles['group_11']}`}>
                   <span className={`flex-1 ${styles['font_7']} ${styles['text_28']}`}>
-                    Bison Labs elevates Bitcoin's utility beyond just a cryptocurrency by enabling developers to build
-                    diverse applications directly on Bitcoin's blockchain. This innovation introduces general
-                    programmability to Bitcoin, facilitating the creation of DApps, smart contracts, and financial
-                    tools, leveraging Bitcoin's security and trust. Bison Labs transforms Bitcoin into a multifaceted
-                    development platform, opening new avenues for innovation and trust in blockchain technology.
-                  </span>
-                  <span className={`ml-30 shrink-0 ${styles['font_7']} ${styles['text_29']}`}>
-                    Bison Labs elevates Bitcoin's utility beyond just a cryptocurrency by enabling developers to build
-                    diverse applications directly on Bitcoin's blockchain.
+                  Bison Labs closed pre-seed funding to pioneer Bitcoin's most trustless on-chain sovereign rollup. The round was led by Portal Ventures with participation from UTXO fund, Domo (BRC-20 Creator), Waterdrip Capital, Bitcoin Startup Labs, Satoshi Lab, Lbank, and other strategic investors.
                   </span>
                 </div>
               </div>

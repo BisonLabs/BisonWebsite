@@ -20,7 +20,7 @@
   margin-top: 2.19rem;
 }
 .mt-165 {
-  margin-top: 10.31rem;
+  margin-top: 0.5rem;
 }
 .mt-53 {
   margin-top: 3.31rem;
@@ -42,7 +42,7 @@
   background-repeat: no-repeat;
 }
 .group {
-  height: 341.19rem;
+  height: 327.19rem;
 }
 .section_2 {
   padding: 2rem 0 6.25rem 6.88rem;
@@ -208,10 +208,7 @@
 }
 .divider {
   background-color: #424242;
-  height: 1rem;
-}
-.flex-1 {
-  flex: 1 1 0%;
+  height: 0.063rem;
 }
 .view {
   margin-left: 0.38rem;
@@ -431,6 +428,7 @@
 .image_11 {
   border-radius: 0.75rem;
   height: 41.25rem;
+  width: 34.25rem;
 }
 .group_9 {
   width: 19.16rem;
@@ -539,9 +537,9 @@
   height: 5.06rem;
 }
 .section_7 {
-  padding: 6rem 6.75rem 5.63rem 6.88rem;
+  padding: 3rem 4.75rem 3.63rem 2.88rem;
   background-color: #fff1dd;
-  height: 29.06rem;
+  height: 23.06rem;
 }
 .text_32 {
   color: #624d2c;
@@ -590,7 +588,7 @@
 }
 .section_8 {
   margin-top: 2.5rem;
-  padding: 1rem 1.38rem;
+  padding: 0rem 1.38rem;
   background-color: #ffffff66;
   border-radius: 0.5rem;
   backdrop-filter: blur(0.72rem);
@@ -615,3 +613,40 @@
 a {
   text-decoration: none;
 }
+
+@media (max-width: 1400px) {
+  .text_5 {
+    color: #333333;
+    font-size: 2rem;
+    font-family: MiSans;
+    font-weight: 800;
+    line-height: 3.69rem;
+    letter-spacing: 0.3rem;
+  }
+  .text_7 {
+    line-height: 1.5rem;
+    opacity: 0.7;
+    width: 30.56rem;
+  }
+  .equal-division-item {
+    width: 14.69rem;
+    height: 20.06rem;
+  }
+  .font_8 {
+    font-size: 2.05rem;
+    font-family: MiSans;
+    letter-spacing: 0.23rem;
+    line-height: 4.21rem;
+    font-weight: 800;
+    color: #333333;
+  }
+  .text_22 {
+    color: #333333;
+    font-size: 1.05rem;
+    font-family: MiSans;
+    font-weight: 800;
+    line-height: 1.55rem;
+    letter-spacing: 0.1rem;
+  }
+}
+
