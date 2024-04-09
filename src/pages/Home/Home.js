@@ -101,15 +101,15 @@ export default function Home(props) {
                   </span>
                 </div>
               </div>
-              <span className={`${styles['font_8']} ${styles['pos_9']}`}>Discover the ecosystem</span>
-              <span className={`${styles['font_9']} ${styles['text_17']} ${styles['pos_10']}`}><a href="/Ecosystem">More</a></span>
-              <img
-                className={`${styles['image_6']} ${styles['pos_11']}`}
-                src="images/634c6121dd973e67304adbe113d77235.png"
-              />
             </div>
           </div>
           <div className={`flex-col self-stretch relative ${styles['group_6']}`}>
+            <span className={`${styles['font_8']}  ${styles['pos_9']}`}>Discover the ecosystem</span>
+            <a href="/Ecosystem"><span className={`${styles['font_9']} ${styles['text_17']} ${styles['pos_10']}`}>More</span>
+            <img
+              className={`${styles['image_6']} ${styles['pos_11']}`}
+              src="images/634c6121dd973e67304adbe113d77235.png"
+            /></a>
             <div className={`flex-row justify-between ${styles['equal-division']}`}>
               <img
                 className={`${styles['equal-division-item']}`}

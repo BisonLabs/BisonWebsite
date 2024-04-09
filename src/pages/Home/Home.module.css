@@ -299,9 +299,8 @@
   color: #333333;
 }
 .pos_9 {
-  position: absolute;
-  left: 7.13rem;
-  bottom: 27.18rem;
+  margin-top:-5rem;
+  margin-left: -0.87rem;
 }
 .font_9 {
   font-size: 1.88rem;
@@ -316,12 +315,12 @@
 .pos_10 {
   position: absolute;
   right: 10.37rem;
-  bottom: 27.18rem;
+  margin-top:-3rem;
 }
 .pos_11 {
   position: absolute;
   right: 6.84rem;
-  bottom: 27.18rem;
+  margin-top:-3rem;
 }
 .group_6 {
   margin-top: -23.5rem;
@@ -330,7 +329,7 @@
 }
 .equal-division {
   align-self: stretch;
-  margin-left: 0.19rem;
+  margin-left: -0.87rem;
   margin-right: 0.38rem;
 }
 .equal-division-item {
