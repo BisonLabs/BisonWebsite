@@ -14,7 +14,7 @@ export default function Home(props) {
           <div className={`flex-col self-stretch ${styles['section_2']}`}>
             <Header />
             <div className={`flex-col items-start relative ${styles['group_4']} ${styles['mt-7']}`}>
-              <span className={`${styles['font_3']} ${styles['text_4']}`}>The First</span>
+              <span className={`${styles['font_3']} ${styles['text_5']}`}>The First</span>
               <div className={`flex-row justify-center items-center ${styles['section_3']}`}>
                     <span className={`${styles['text_8']}`}>Join the community</span>
                     <img
@@ -32,7 +32,7 @@ export default function Home(props) {
                   Bison Labs is the first native bitcoin Layer-2 Rollup that allows users to verify transactions
                   independently; building a trustlessness defi future.
                 </span>
-                <span className={`${styles['font_3']} ${styles['text_6']} ${styles['pos_4']}`}>on Bitcoin</span>
+                <span className={`${styles['font_3']} ${styles['text_5']} ${styles['pos_4']}`}>on Bitcoin</span>
                 <img
                   className={`${styles['image_4']} ${styles['pos_2']}`}
                   src="images/9d3b43732681bfdccb8731427739d961.png"

@@ -407,3 +407,6 @@
 .text_24 {
   line-height: 1.3rem;
 }
+a {
+  text-decoration: none;
+}
