@@ -426,3 +426,48 @@ a {
   text-decoration: none;
 }
 
+/* Define a media query for screens less than 1400px */
+@media (max-width: 1400px) {
+  /* Target the grid container */
+  .grid {
+    /* Apply scaling styles */
+    transform: translateX(-50%);
+  }
+
+  /* Optionally adjust padding or margins of grid items to maintain spacing */
+  .grid-item {
+    margin: 10px; /* Adjust margin as needed */
+  }
+  .grid {
+    width: 60.38rem;
+    height: 134rem;
+    display: grid;
+    grid-template-rows: repeat(6, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    row-gap: 1.84rem;
+    column-gap: 1.84rem;
+  }
+  .group_8 {
+    margin-right: 10.38rem;
+  }
+  .group_10 {
+    padding: 1rem 1.63rem 1.25rem;
+    width: 28.31rem;
+  }
+  .ml-11 {
+    margin-left: 0.69rem;
+  }
+  .group_18 {
+    padding: 1.38rem 2rem 1.63rem;
+    width: 37.31rem;
+  }
+  .text_13 {
+    margin-left: -13.25rem;
+  }
+  .grid-item {
+    margin: 0; /* Adjust margin as needed */
+  }
+  .group {
+    height: 155.19rem;
+  }
+}
