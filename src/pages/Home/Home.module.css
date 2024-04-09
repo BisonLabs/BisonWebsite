@@ -208,7 +208,10 @@
 }
 .divider {
   background-color: #424242;
-  height: 0.063rem;
+  height: 1rem;
+}
+.flex-1 {
+  flex: 1 1 0%;
 }
 .view {
   margin-left: 0.38rem;
@@ -599,7 +602,7 @@
 }
 .image_21 {
   width: 3.13rem;
-  height: 3.13rem;
+  height: 2.13rem;
 }
 .image_20 {
   margin-right: 0.88rem;

@@ -217,7 +217,7 @@ export default function Home(props) {
               className={`self-stretch ${styles['image_15']}`}
               src="images/8795c9e34fe7495d1c6196787ee9adc4.png"
             />
-            <span className={`self-start ${styles['font_5']} ${styles['text_31']}`}>investor</span>
+            <span className={`self-start ${styles['font_5']} ${styles['text_31']}`}>investors</span>
             <div className={`flex-row items-center self-stretch ${styles['group_12']}`}>
               <div className={`shrink-0 ${styles['section_4']}`}></div>
               <div className={`ml-6 flex-1 ${styles['divider']}`}></div>
