@@ -35,7 +35,7 @@
   margin-top: 3.31rem;
 }
 .page {
-  background-color: #f8f8f8;
+  background-image: linear-gradient(178.7deg, #ededed 54.4%, #ffffff 67.9%);
   width: 100%;
   overflow-y: auto;
   overflow-x: hidden;
@@ -46,7 +46,7 @@
   background-color: #ffffff;
 }
 .group {
-  padding-bottom: 0rem;
+  height: 125.19rem;
 }
 .section_2 {
   padding: 2rem 6.88rem 120.5rem;
@@ -107,6 +107,16 @@
   left: 50%;
   top: 20.19rem;
   transform: translateX(-50%);
+}
+.main-title {
+  position: absolute;
+  margin-top: 16rem;
+  padding-left: 6rem;
+}
+.text {
+  color: #000000;
+  line-height: 63.5px;
+  letter-spacing: 3.5px;
 }
 .grid-item {
   background-color: #ebebeb;
@@ -291,6 +301,11 @@
   line-height: 0.74rem;
   color: #666666;
 }
+.font {
+  font-size: 60px;
+  font-family: MiSans;
+  font-weight: 800;
+}
 .text_19 {
   line-height: 0.73rem;
 }
@@ -410,3 +425,4 @@
 a {
   text-decoration: none;
 }
+

@@ -17,6 +17,7 @@ export default function Ecosystem(props) {
           <div className={`flex-row justify-between ${styles['section_2']}`}>
             <Header />
           </div>
+          <h1 className={`${styles['font']} ${styles['text']}  ${styles['main-title']}`}>Ecosystem</h1>
           <div className={`${styles['grid']} ${styles['pos']}`}>
             <div className={`flex-col items-start ${styles['grid-item']}`}>
               <div className={`flex-row ${styles['group_3']}`}>
